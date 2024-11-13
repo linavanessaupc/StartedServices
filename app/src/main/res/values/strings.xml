@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StartedServices</string>
+    <string name="response">Se ha informado al centro médico más cercano su emergencia.</string>
+    <string name="btn_txt">Reportar emergencia</string>
+</resources>
